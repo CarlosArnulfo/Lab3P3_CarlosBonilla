@@ -1,0 +1,9 @@
+﻿  Lab3P3_CarlosBonilla.cpp
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(19,30): error C2146: error de sintaxis: falta ')' delante del identificador 'arreglo'
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(19,30): error C3646: 'arreglo': especificador de invalidación desconocido
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(19,37): error C2059: error de sintaxis: ')'
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(21,22): error C2065: 'arreglo': identificador no declarado
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(23,11): error C2065: 'arreglo': identificador no declarado
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(70,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(79,16): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\lospe\OneDrive\Escritorio\tareas\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla\Lab3P3_CarlosBonilla.cpp(213,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
